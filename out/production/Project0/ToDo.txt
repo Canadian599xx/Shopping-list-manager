@@ -1,0 +1,21 @@
+list of options
+
+add to list
+remove from list
+check item off of list
+show list
+exit
+
+when you check off an item, it should get some kind ot check next to it (x) to indicate, but
+stay in the list, check off the items by searching for the specific they check off and editing the string
+search for item by looping through list until item found. otherwise return no item
+
+removing should fully remove from the list
+
+showing the list should show all items, both checked and non checked that are in the list
+
+make something to add the check
+
+also cannot add duplicate items, make items case change for easier time, if an item already exists then ignore the
+adding to the list
+
