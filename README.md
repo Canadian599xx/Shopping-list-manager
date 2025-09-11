@@ -22,9 +22,11 @@ The program provides a text-based menu to add, remove, check off, and view items
    cd Shopping-list-manager
 
 2. Compile the code:
+    ```bash
     javac src/*.java
 
 3. Run the program:
+    ```bash
     java -cp src Main
 
 
