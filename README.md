@@ -1,4 +1,4 @@
-# Shopping-list-manger
+# Shopping-list-manager
 A simple command line based shopping list tool. 
 The program provides a text-based menu to add, remove, check off, and view items.
 

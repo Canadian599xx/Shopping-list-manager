@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args){
 
         boolean run = true;
-        int option = 0;
+        int option;
         Scanner scnr = new Scanner(System.in);
         Shopping list1 = new Shopping();
         String intro = """
